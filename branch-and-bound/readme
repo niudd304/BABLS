@@ -1,0 +1,9 @@
+Running BABWSCP as:
+
+./BABWSCP S30A60.wcol
+
+"S30A60.wcol" is an example graph.
+
+The output format is that:
+file_name << best_result << running_time
+
