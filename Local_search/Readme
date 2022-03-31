@@ -1,0 +1,23 @@
+1. Running BABLS, CCLS_WSC, GA_WSC, LS_WSC as:
+
+./solver_name example.wcol 1 300
+
+"example.wcol" is an example graph.
+"1" is the random seed.
+"300" is the limit time(s).
+
+The output format is that:
+file_name << seed << best_result << best_time
+
+
+
+
+2.Running GREEDY as:
+
+./GREEDY example.wcol
+
+"example.wcol" is an example graph.
+
+The output format is that:
+file_name << best_result << best_time
+
